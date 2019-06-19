@@ -15,6 +15,11 @@
 	<META NAME="ShareDoc" CONTENT="false">
 </HEAD>
 
+<img src="https://github.com/leonazareth/sanibid_redbasica/blob/master/Images/SaniBID_2%20-%20short%20v02-01.png" width=20% height=20%></P>
+<a href="https://publications.iadb.org/pt/guia-rapido-para-uso-do-sanibid-software-livre-para-o-projeto-de-redes-de-esgoto">Download Guia Rápido</a>
+
+
+
 <img src="https://github.com/leonazareth/sanibid_redbasica/blob/master/Images/Logo%20SaniBID%20RB_v.02..png"></P>
 
 
