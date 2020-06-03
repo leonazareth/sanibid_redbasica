@@ -42,7 +42,7 @@ Cooperación Internacional para el Desarrollo (AECID) e a Latin America Investme
 com a finalidade educativa e de promover o livre acesso a ferramentas modernas para o projeto de sistemas de esgoto 
 e com funcionalidades adaptadas para o projeto de sistemas de esgoto do tipo condominial. </P>
 
-Atualmente o plugin está na versão beta 0.9, é suportado pelo QGIS 3.0, ou mais recente, e a planilha 
+Atualmente o plugin está na versão beta 0.9, é suportado pelo QGIS 3.10, ou mais recente, e a planilha 
 fornecida funciona com Excel versão 2010 em diante, com sistema operacional Windows de 32 ou 64-bits. </P>
 <P STYLE="margin-bottom: 0.14in"><BR><BR>
 
