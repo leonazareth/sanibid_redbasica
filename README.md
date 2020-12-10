@@ -33,7 +33,7 @@ O saniBID RedBasica  é um software livre que tem como objetivo auxiliar no tra�
 e dimensionamento redes coletoras de esgoto, com ferramentas para projeto de sistemas do tipo condominial. 
 Funciona como um complemento para o software de livre acesso QGIS, de Sistema de Informações Geográficas.</P>
 
-Além do módulo livre, é fornecida uma <a href="https://github.com/leonazareth/sanibid_redbasica/blob/master/saniBID_RedBasica_Planilha_Dimensionamento_PT_v01907.xlsm">planilha</a> de cálculo hidráulico e dimensionamento, desenvolvida no software Excel.
+Além do módulo livre, é fornecida uma <a href="https://github.com/leonazareth/sanibid_redbasica/blob/master/saniBID_RedBasica_Planilha_Dimensionamento_PT_v191020.xlsm">planilha</a> de cálculo hidráulico e dimensionamento, desenvolvida no software Excel.
 Isso não impede o usuário de utilizar os dados exportados pelo QGIS para o dimensionamento em outra planilha ou software 
 de sua preferência.</P>
 
